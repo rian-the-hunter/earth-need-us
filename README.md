@@ -146,6 +146,8 @@ Referensi informasi yang digunakan sebagai bahan pengembangan konten:
 1. NASA Climate Change — https://climate.nasa.gov/
 2. Intergovernmental Panel on Climate Change (IPCC) — https://www.ipcc.ch/
 3. United Nations Climate Action — https://www.un.org/en/climatechange
+4. PBB Indonesia apa itu perubahan iklim https://indonesia.un.org/id/172909-apa-itu-perubahan-iklim
+5. BMKG Perubahan Iklim https://gaw-bariri.bmkg.go.id/publikasi/gawsarium/243-perubahan-iklim
 
 Tautan di atas merupakan sumber bacaan untuk memahami perubahan iklim. Ringkasan pada website ditulis untuk tujuan edukasi.
 
@@ -155,15 +157,17 @@ Lengkapi informasi berikut dengan data anggota kelompok yang sebenarnya.
 
 | No. | Nama | NIM | Tugas |
 |---|---|---|---|
-| 1 | [Nama anggota 1] | [NIM] | [Tugas] |
-| 2 | [Nama anggota 2] | [NIM] | [Tugas] |
+| 1 | [Komang Rian Triadi] | [2515091053] | [Tugas] |
+| 2 | [Putu Adhi Prajna Pratisthita] | [2515091079] | [Bagian Article dan Panduan] |
 | 3 | [Nama anggota 3] | [NIM] | [Tugas] |
 | 4 | [Nama anggota 4] | [NIM] | [Tugas] |
 
+
+
 ## 8. Tautan Proyek
 
-- **Repository GitHub:** [Masukkan URL repository]
-- **Website GitHub Pages:** [Masukkan URL website]
+- Repository GitHub [https://github.com/rian-the-hunter/earth-need-us]
+- Website GitHub Pages [https://rian-the-hunter.github.io/earth-need-us/index.html]
 
 ## 9. Penutup
 
