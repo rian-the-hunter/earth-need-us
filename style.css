@@ -373,3 +373,21 @@ a:focus-visible {
         padding: 48px 6%;
     }
 }
+/* ===== LOGO SDG 13 ===== */
+.hero-label {
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    margin-bottom: 16px;
+}
+
+.hero-label .eyebrow {
+    margin-bottom: 0;
+}
+
+.sdg-image {
+    width: 55px;
+    height: 55px;
+    object-fit: contain;
+    border-radius: 6px;
+}
