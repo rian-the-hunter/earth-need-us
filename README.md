@@ -159,7 +159,7 @@ Lengkapi informasi berikut dengan data anggota kelompok yang sebenarnya.
 |---|---|---|---|
 | 1 | [Komang Rian Triadi] | [2515091053] | [Tugas] |
 | 2 | [Putu Adhi Prajna Pratisthita] | [2515091079] | [Bagian Article dan Panduan] |
-| 3 | [Nama anggota 3] | [NIM] | [Tugas] |
+| 3 | [I Kade Adi Wiraditya] | [2515091019] | [Bagian edukasi] |
 | 4 | [Nama anggota 4] | [NIM] | [Tugas] |
 
 
