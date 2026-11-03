@@ -386,8 +386,8 @@ a:focus-visible {
 }
 
 .sdg-image {
-    width: 55px;
-    height: 55px;
+    width: 10%;
+    height: 10%;
     object-fit: contain;
     border-radius: 6px;
 }
