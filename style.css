@@ -148,6 +148,7 @@ a:focus-visible {
     position: relative;
     display: flex;
     flex: 0 1 340px;
+    width: 340px;
     min-height: 300px;
     align-items: center;
     justify-content: center;
@@ -155,9 +156,12 @@ a:focus-visible {
     background: #d4e8c7;
 }
 
-.earth-circle {
-    font-size: clamp(8rem, 17vw, 13rem);
-    line-height: 1.2;
+.earth-image {
+    display: block;
+    width: 70%;
+    max-width: 220px;
+    height: auto;
+    object-fit: contain;
 }
 
 .leaf {
@@ -173,13 +177,6 @@ a:focus-visible {
 .leaf-two {
     right: 20px;
     bottom: 20px;
-}
-.earth-image {
-    width: 80%;
-    max-width: 260px;
-    height: auto;
-    object-fit: contain;
-    display: block;
 }
 
 /* ===== BAGIAN PENGENALAN ===== */
