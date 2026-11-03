@@ -239,6 +239,15 @@ a:focus-visible {
     text-decoration: underline;
 }
 
+.feature-card-img {
+    width: 180px;             
+    height: 180px;          
+    object-fit: cover;       
+    border-radius: 12px;     
+    margin-bottom: 16px;    
+    display: block;
+}
+
 /* ===== AJAKAN BERTINDAK ===== */
 .call-to-action {
     padding: 64px 9%;
