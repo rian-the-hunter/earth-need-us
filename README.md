@@ -167,6 +167,7 @@ Lengkapi informasi berikut dengan data anggota kelompok yang sebenarnya.
 
 - Repository GitHub [https://github.com/rian-the-hunter/earth-need-us]
 - Website GitHub Pages [https://rian-the-hunter.github.io/earth-need-us/index.html]
+- gambar bumi [https://www.magnific.com/free-psd/earth-ball-school-education_360852946.htm#fromView=search&page=1&position=28&uuid=54fe718b-d4e5-490e-b5db-d5f053237afc&track=ais_hybrid&query=bumi%27]
 
 ## 9. Penutup
 
